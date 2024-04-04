@@ -1,2 +1,2 @@
 # yelp-sentiment-analysis
-this project will use nlp and machine learning methods to perform sentiment analysis on the Yelp reviews dataset
+this project will use nlp and machine learning methods to perform sentiment analysis on the Yelp reviews dataset. the goal is to build and evaluate multiple classification models, including decision trees, logistic regression, multilayer perceptrons, support vector machines and, naive Bayes classifiers, for accurately predicting the sentiment of reviews. the project involves data preprocessing, exploratory analysis, model training, hyperparameter tuning, and performance evaluation using appropriate metrics.
